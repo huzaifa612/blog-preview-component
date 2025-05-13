@@ -15,19 +15,18 @@ body{
 }
 .card{
     width: 350px;
-    min-height: 500px;
+    min-height: 480px;
     background-color: #fff;
     border-radius: 20px;
     border: 1px solid #000;
     box-shadow: 5px 5px 0 #000;
 }
-button, h1, h2, p{
+.image, button, h1, h2, p{
     margin-left: 22px;
 }
 .image{
     width: 300px;
     margin-top: 25px;
-    margin-left: 20px;
     border-radius: 10px;
 }
 button{
